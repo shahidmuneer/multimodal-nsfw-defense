@@ -16,7 +16,7 @@ The code and the restricted dataset are available at the following GitHub reposi
 This repository contains the following:
 
 - **Training and Validation Scripts**:
-  - `train.py`: Script for training the multimodal classification model.
+  - `train_mmp_diffusion.py`: Script for training the multimodal classification model.
   - `validate.py`: Script for evaluating the model performance.
 
 ---
@@ -39,7 +39,7 @@ pip install torch pandas diffusers transformers
 ## Training
 To train the model, use the following command:
 ```bash
-python train.py
+python train_mmp_diffusion.py
 ```
 
 ---
