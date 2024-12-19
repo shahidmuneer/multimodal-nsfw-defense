@@ -7,8 +7,6 @@ In the past years, we have witnessed the remarkable success of Text-to-Image (T2
 
 Moreover, there is no robust million-scale multimodal NSFW dataset with both prompt and image pairs with adversarial examples. In this work, we propose a large-scale prompt and image dataset, generated using open-source diffusion models. Also, we develop a multimodal classification model to distinguish safe and NSFW text and images, which has robustness against adversarial attacks, and directly alleviates the current challenges. Our extensive experimental results show that our model shows good performance against existing SOTA NSFW detection methods in terms of accuracy and recall, and drastically reduced the Attack Success Rate (ASR) in multimodal adversarial attack scenarios.
 
-The code and the restricted dataset are available at the following GitHub repository: [https://github.com/shahidmuneer/multimodal-nsfw-defense](https://github.com/shahidmuneer/multimodal-nsfw-defense).
-
 ---
 
 ## Repository Structure
@@ -52,7 +50,8 @@ python validate.py
 
 ---
 
-
+## To request the dataset please fill the form below:
+[https://docs.google.com/forms/d/e/1FAIpQLSd2QdPuEuotTOx6qI8aCEnwX0KQHDkg66U3TGIwz2zpbr61Ig/viewform?usp=header](https://docs.google.com/forms/d/e/1FAIpQLSd2QdPuEuotTOx6qI8aCEnwX0KQHDkg66U3TGIwz2zpbr61Ig/viewform?usp=header)
 
 ---
 
